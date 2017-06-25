@@ -3,9 +3,9 @@ This project is made to make a private paper describing the next principle about
 
 Some Random thoughts
 -------------------------
-[On interpreting the meaning of Schrödinger's wave equation!](./RandomIdea.md)
-
-
+1. [On interpreting the meaning of Schrödinger's wave equation!](./RandomIdea.md)
+2. [Hamiltonian graph of any particle energy](./energy_mass_graph.md)
+    - This is rough picture on my new idea what I want to explain. Must read.
 -------------------------
 
 
