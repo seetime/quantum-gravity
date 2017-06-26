@@ -13,9 +13,17 @@ Simple is the best could be a just belief but strong guidance to direct us to ri
 
 In my physical model, every particle including photon, electron, quarks is associated with an energy value defined in complex number domain. It was hinted by the wave-particle duality which is the basic property of every observable object. It is 2d complex domain. I chose the horizontal axis is for mass term of the Energy and the vertical axis for wave term. As the vertical axis in 2d complex domain is the imaginary part, the wave axis also is accompanied by imaginary number *i*. For example, a photon's energy is only dependent on its frequency which is the property of wave, expressed as  $E_w=ih\nu$. I am sure readers will laugh at me if I say the wave energy of photon is not real number but imaginary number but bear with me for a while. I am sure readers will accept my view in the end.
 
-On the other hand, the mass term will be positioned in real axis in 2d complex domain. Einstein's famous equation $E_m=mc^2$ says mass is equivalent to energy. In natural unit, massless photon's energy is equal to its frequency and the energy of pure mass object is equal to its mass value. To sum up my explanation, every pure wave and mass particle can be depicted as a point on imaginary axis for photon and real axis for pure mass particle as in picture 1.
+On the other hand, the mass term will be positioned at the real axis in 2d complex domain. Einstein's famous equation $E_m=mc^2$ says mass is equivalent to energy but mass is different from light which is also energy. The pure mass and massless light are both energy but in different form.  Mass have a special property preventing movement in space. But light is the fastest object in space so nothing can move faster than light. Mass shows a tendency of reluctance to move but light tends to move faster than anything massive. This observation provided great insight to me and help me to think of the following energy map. In figure 1, every particle with no mass term, i.e. photon, can be positioned only along the vertical axis which is imaginary axis in 2d complex number domain.
+
+Since Max Plank postulated his theory that energy can exist in only quantized form, assuming natural unit is 1, every massless particle can be depicted as a point located at the integer multiples along imaginary axis. It would be helpful to think of Schrodinger equation which has *i* term. I will call it wave energy particle with no mass term. As you already guess, every particle without wave term is called mass energy particle or simply mass energy which can be positioned at the integer multiples along horizontal axis.
 
 
 ![alt text](./images/wavemass_energymap.png "Logo Title Text 1")
 
 Picture 1. Hamiltonian graph for a particle energy.
+
+
+
+It is important that there is a room for negative wave energy in the complex domain. All positive wave particle is light we know but negative energy may sound strange to readers. To understand this, it is required to understand what Energy is first.
+
+## What is energy
