@@ -1,4 +1,9 @@
-# Introduction
+# Unveiling secrete hidden in Einstein's $E=mc^2$
+
+Oh YoungJong(dmqcka@gmail.com)
+
+
+## Introduction
 
 What I am telling now is a new idea you never heard of. It is the result of my sole studies for last few years to understand a simple question: Does subatomic particle feel the space and time as we human feel space and time? Can we human know the exact motion of the elementary particle in space and time? I know Quantum mechanics says it is impossible for us to know the position and momentum of it at the same time due to Heisenberg's Uncertainty principle. Although I didn't majored any regular physics course in university, I have been curious on Physics especially in the all weird phenomena mentioned in Quantum mechanics and General relativity and made some satisfactory outcome with help of many YouTube videos and online materials accessible easily to me. Without many other's kind contributions uploaded freely on web, it would be impossible to write any small piece on this topic. So I think it would be square my debt to open my findings and it is one main reason why I write this paper.
 
@@ -6,7 +11,7 @@ What I am telling now is a new idea you never heard of. It is the result of my s
 I would like to introduce my conclusion first. Later, there will be a chance to introduce why I get to this conclusion and what obstacles I need to overcome in another post in detail.
 
 
-# Hamiltonian of a elementary particle.
+## Hamiltonian of a elementary particle.
 
 Simple is the best could be a just belief but strong guidance to direct us to right path. I found a much simpler Hamiltonian expression about the state of elementary particle. In my theory, all fundamental building blocks in our universe is believed to share one single common form which is called *energy*. The Standard model of particle physics list many elementary particles push three fundamental forces but in my view they are treated as just variants of one common form: energy. Again, this writing is about new revolutionary idea on how we can interpret universe.
 
@@ -27,3 +32,47 @@ Picture 1. Hamiltonian graph for a particle energy.
 It is important that there is a room for negative wave energy in the complex domain. All positive wave particle is light we know but negative energy may sound strange to readers. To understand this, it is required to understand what Energy is first.
 
 ## What is energy
+
+Will be written later.
+
+
+## Energy transition rule
+Light and mass are different forms of energy. As can be seen in nuclear weapon, it means that they can transform to each other under certain rule which I will explain. To explain the rule in more strict way, I will reuse the existing mathematics with some tweaks. Firstly, as Max Planks postulated, energy can exist only in quantized form which means its energy scalar value is integer assuming natural unit 1 for Plank constant *h*. From now on, my new idea and rules will be presented so readers are advised to be patient for them although they sound strange or crazy for time being.
+
+For a photon with energy value higher than 1, it can be thoughts as a single object is composed of multiples of unit energy interacting to each other. Using old mathematics, let me define a unit energy as $E_w=e^i$ for a photon of unit energy and $E_m=e^0$ for a particle with pure mass of unit energy.
+
+1. $$E_w=e^i$$
+2. $$E_m=e^0$$
+
+I just defined the most simple 2 forms for a unit energy in wave form and massive form. I will use $e^i$ and $e^0$ as like vector.
+
+ Another definition is the interaction between two energy particle which will be expressed as multiplication. For an example, let me show how the interaction with two energy object can be expressed. Look at below 3 cases.
+
+  3. Interaction of two wave particles of unit energy(obviously photons)
+  $$e^ie^i=e^{i(2)}$$
+  4. Interaction of one mass energy particle and one mass energy particle
+  $$e^0e^0=e^{0(2)}$$
+  5. Interaction of N wave particles of unit energy(obviously photons)
+  $$e^ie^i...e^i=e^{i(N)}$$
+  6. Interaction of one wave energy particle and one mass energy particle
+  $$e^ie^0=e^{i(1)}e^{0(1)}$$
+
+In case 3, nothing changes. Repeatedly saying, thinking $e^1$ and $e^0$ as vector symbols will help to get comfortable to accept the above formulas. Using vector symbol, equation 6 can be extended as follows.
+
+  $$e^ie^0=e^{i(1)}e^{0(1)}=\hat{p}^1\hat{m}^1$$
+
+
+Now it's time to define a rule for energy transforming to another form. From now on, something new interesting rule will show up. Assume here are two wave energy particles with different sign and they are expressed as follows.
+
+7. Positive wave particle of unit energy:
+$$e^{i(1)}=\hat{p}^1$$
+8. Negative wave particle of unit energy:
+$$e^{i(-1)}=\hat{p}^{-1}$$
+9. Interaction of them:
+$$e^{i(1)}e^{i(-1)}=\hat{p}^{(1)}\hat{p}^{(-1)}=e^{0(1)}e^{0(1)}=\hat{m}^{(1)}\hat{m}^{(1)}=\hat{m}^{(2)}$$
+
+The mathematical expression used to define the interaction of two wave energy particle with different sign is different from one we learned in school. Yes, it is not normal arithmetic operation we are familiar with. I made this rule to show clearly old classical principle, energy conservation law. Readers probably are curious why I need such weird operation. The minus sign used in the above expression is not meant for subtracting energy so the result always decrement in total energy. It is rather close to canceling rotational motion of wave particles while total energy is conserved. Every positive wave particle oscillate within its bounded area in space and shows rotation in 2d plane if the oscillation is projected on to either counter clockwise or clockwise direction. This unique property will be explained in the part for What is energy.
+
+The important thing you must know here is that the interaction of two wave energy particles with different sign transform them into mass energy of two unit energy. The equation 9 is great because it will support strongly my story is actually telling something closer to reality. Why? Some may notice $\hat{m}^{(2)}$ in equation 9 and getting an insight from it. What do you think about it? Let me explain my interpretation here.
+
+Our universe is decided by few constants such as *h* and *c* which are closely related with energy. *h* is used in photon energy equation $E=h\nu$ and *c* is used in Einstein's famous equation $E=mc^2$. Here we can ask a simple question: why *c* is squared while *h* is unsquared? The question 9 shows us the reasonable and precise answer for that question which nobody answer or even try it.
