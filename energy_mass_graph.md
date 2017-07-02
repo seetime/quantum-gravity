@@ -59,20 +59,41 @@ I just defined the most simple 2 forms for a unit energy in wave form and massiv
 
 In case 3, nothing changes. Repeatedly saying, thinking $e^1$ and $e^0$ as vector symbols will help to get comfortable to accept the above formulas. Using vector symbol, equation 6 can be extended as follows.
 
-  $$e^ie^0=e^{i(1)}e^{0(1)}=\hat{p}^1\hat{m}^1$$
+  $$e^ie^0=e^{i(1)}e^{0(1)}=\vec{p}^1\vec{m}^1$$
 
 
 Now it's time to define a rule for energy transforming to another form. From now on, something new interesting rule will show up. Assume here are two wave energy particles with different sign and they are expressed as follows.
 
 7. Positive wave particle of unit energy:
-$$e^{i(1)}=\hat{p}^1$$
+$$e^{i(1)}=\vec{p}^1$$
 8. Negative wave particle of unit energy:
-$$e^{i(-1)}=\hat{p}^{-1}$$
+$$e^{i(-1)}=\vec{p}^{-1}$$
 9. Interaction of them:
-$$e^{i(1)}e^{i(-1)}=\hat{p}^{(1)}\hat{p}^{(-1)}=e^{0(1)}e^{0(1)}=\hat{m}^{(1)}\hat{m}^{(1)}=\hat{m}^{(2)}$$
+$$e^{i(1)}e^{i(-1)}=\vec{p}^{(1)}\vec{p}^{(-1)}=e^{0(1)}e^{0(1)}=\vec{m}^{(1)}\vec{m}^{(1)}=\vec{m}^{(2)}$$
 
 The mathematical expression used to define the interaction of two wave energy particle with different sign is different from one we learned in school. Yes, it is not normal arithmetic operation we are familiar with. I made this rule to show clearly old classical principle, energy conservation law. Readers probably are curious why I need such weird operation. The minus sign used in the above expression is not meant for subtracting energy so the result always decrement in total energy. It is rather close to canceling rotational motion of wave particles while total energy is conserved. Every positive wave particle oscillate within its bounded area in space and shows rotation in 2d plane if the oscillation is projected on to either counter clockwise or clockwise direction. This unique property will be explained in the part for What is energy.
 
-The important thing you must know here is that the interaction of two wave energy particles with different sign transform them into mass energy of two unit energy. The equation 9 is great because it will support strongly my story is actually telling something closer to reality. Why? Some may notice $\hat{m}^{(2)}$ in equation 9 and getting an insight from it. What do you think about it? Let me explain my interpretation here.
+The important thing you must know here is that the interaction of two wave energy particles with different sign transform them into mass energy of two unit energy. The equation 9 is great because it will support strongly my story is actually telling something closer to reality. Why? Some may notice $\vec{m}^{(2)}$ in equation 9 and getting an insight from it. What do you think about it? Let me explain my interpretation here.
 
 Our universe is decided by few constants such as *h* and *c* which are closely related with energy. *h* is used in photon energy equation $E=h\nu$ and *c* is used in Einstein's famous equation $E=mc^2$. Here we can ask a simple question: why *c* is squared while *h* is unsquared? The question 9 shows us the reasonable and precise answer for that question which nobody answer or even try it.
+
+
+## Side note: Physical meaning of various energies in mathematical expressions used in here.
+
+It is a side note before to continue the discussion. This part is the result of my imagination which will help readers to understand why I need to think something crazy and abnormal to whom worked in conventional field in quantum mechanics and general relativity.
+
+1. Positive wave energy particle: Photon
+    - $e^{i(N)}$, where *N* is a natural number.
+    - This particle is normal massless photon which we can measure and detect with our own eye. *N* is normal known to have a 1:1 map with the frequency of a photon in Quantum mechanics. In my view here, if *N* is higher than 1, then it is considered single composite particle united by interactions of N unit wave particles.
+    - If *N* is not zero, it means it have a certain wave length, what Plank/Einstein equation tells, so it occupies some finite area or bounded area in our 3 dimensional space.
+    - In my model, every object with non-zero wave energy is believed as a particle orbiting at the center of the bounded area in our 3d space.
+    - The direction of angular motion projected onto 2d plane out of orbiting motion in 3d space is assumed to be counter clockwise to be compatible with the complex number domain.
+    - The orbiting motion is timeless and **the trajectory of a particle formed by timeless orbiting motion in a bounded region can be described as a string** which is believed as the fundamental building block in String theory.
+    - Interaction of two particles seems to happen only when the bounded region of two particles overlaps. The exact condition to complete the interaction so that they are united to be a single moving object is unclear for now. But the result of two photons is the increment of frequency of the newly created particle out for input particles.
+
+
+
+1. Negative wave energy particle: Anti photon
+    - $e^{i(-N)}$, where *N* is a natural number.
+    - This particle is almost same to photon with one difference: the direction of orbiting motion. The direction of angular motion of negative wave particle is opposite to the photon.
+    -
