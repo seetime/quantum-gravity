@@ -88,12 +88,17 @@ It is a side note before to continue the discussion. This part is the result of 
     - If *N* is not zero, it means it have a certain wave length, what Plank/Einstein equation tells, so it occupies some finite area or bounded area in our 3 dimensional space.
     - In my model, every object with non-zero wave energy is believed as a particle orbiting at the center of the bounded area in our 3d space.
     - The direction of angular motion projected onto 2d plane out of orbiting motion in 3d space is assumed to be counter clockwise to be compatible with the complex number domain.
-    - The orbiting motion is timeless and **the trajectory of a particle formed by timeless orbiting motion in a bounded region can be described as a string** which is believed as the fundamental building block in String theory.
-    - Interaction of two particles seems to happen only when the bounded region of two particles overlaps. The exact condition to complete the interaction so that they are united to be a single moving object is unclear for now. But the result of two photons is the increment of frequency of the newly created particle out for input particles.
+    - The orbiting motion is timeless and **the trajectory of a particle formed by timeless orbiting motion in a bounded region can be described as a string** which is believed as the fundamental building block in String theory. Timeless motion may puzzle readers so I will do my best to explain what it means and why I needed the notion in detail when gravity will be discussed in later section. For now, I am very sorry to ask readers just accept my arguing what **timeless** means is that $dt=0$ with enough explanation. I hope that all puzzling things will be cleared at the gravity section.
+    - Interaction of two particles seems to happen only when the bounded region of two particles overlaps. The exact condition to complete the interaction so that they are united to be a single moving object is unclear for now. But the result of interaction of  two photons is the increment of frequency of the newly created particle out for input particles.
 
 
 
-1. Negative wave energy particle: Anti photon
+2. Negative wave energy particle: Anti photon
     - $e^{i(-N)}$, where *N* is a natural number.
-    - This particle is almost same to photon with one difference: the direction of orbiting motion. The direction of angular motion of negative wave particle is opposite to the photon.
-    -
+    - This particle is almost same to photon with one difference: the direction of orbiting motion. The direction of orbiting motion of negative wave particle is opposite to the photon.
+    - Possible interactions:
+        1. negative wave energy and negative energy: The result of interaction is the increment of energy magnitude which is the frequency of self orbiting particle with negative sign.
+        2. Negative wave energy and positive energy: The only result of interaction we can observe(if possible due to technology development) is the energy transforming to mass. This means we human cannnot detect the existence of negative wave energy directly because it changes its form into mass when it meet and interact with positive wave energy, photon.
+    - Anti photon and photon both are fastest moving particles in 3d space as long as they are in timeless orbiting motion within their own bounded region. The meaning of "orbiting motion", "bounded region" will be explained in the section what energy means.
+
+3. Positive mass particle
