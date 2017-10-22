@@ -33,7 +33,7 @@ It is important that there is a room for negative wave energy in the complex dom
 
 ## What is energy
 
-Will be written later.
+[Under ]
 
 
 ## Energy transition rule
@@ -98,7 +98,16 @@ It is a side note before to continue the discussion. This part is the result of 
     - This particle is almost same to photon with one difference: the direction of orbiting motion. The direction of orbiting motion of negative wave particle is opposite to the photon.
     - Possible interactions:
         1. negative wave energy and negative energy: The result of interaction is the increment of energy magnitude which is the frequency of self orbiting particle with negative sign.
-        2. Negative wave energy and positive energy: The only result of interaction we can observe(if possible due to technology development) is the energy transforming to mass. This means we human cannnot detect the existence of negative wave energy directly because it changes its form into mass when it meet and interact with positive wave energy, photon.
-    - Anti photon and photon both are fastest moving particles in 3d space as long as they are in timeless orbiting motion within their own bounded region. The meaning of "orbiting motion", "bounded region" will be explained in the section what energy means.
+        2. Negative wave energy and positive energy: The only result of interaction we can observe(if possible due to technology development) is the energy transformation to mass form. This means we human cannot detect the existence of negative wave energy directly because it changes its form into mass when it meet and interact with positive wave energy, photon.
+    - Anti photon and photon both are fastest moving particles in 3d space as long as they are in timeless orbiting motion within their own bounded region. The detailed meaning of "timeless orbiting motion", "bounded region" will be explained in the section what energy means.
+
 
 3. Positive mass particle
+    - equivalent mathematical expression: $e^{0(2M)}$, where *M* is a natural number.
+    - It is pure mass particle because it have no wave particle. A mass particle is consisted of two wave particles, one is positive wave particle and the other is negative energy particle so the energy value of every pure mass particles is even numbered. It means a wave particle can be transformed to a mass particle after joining with a negative wave particle which is undetectable to us human and merged into single object. This logical deduction can be used to explain why *c* in $E=mc^2$ is squared and *h* in $E=h\nu$ is unsquared.
+
+
+## Application
+
+The energy model introduced in the previous section enable us to think of the Hamiltonian of a particle system as follows.
+Suppose that there are three positive and two negative wave particles and they are to be merged into a single composite particle.

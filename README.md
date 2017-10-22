@@ -1,3 +1,9 @@
+---
+title: "Introduction of a new theoritical framework which will unify Quantum mechanics and General relativity"
+date: "May 2017"
+author: "Oh Youngjong"
+---
+
 # quantum-gravity
 This project is made to make a private paper describing the next principle about gravity which will unify quantum mechanics and general relativity. So the final goal of this project is to complete a paper based on various materials created mostly by me and references which will be contained in this repository.
 
@@ -14,7 +20,26 @@ Some Random thoughts
 
 ## Objective
 
-Our current understanding of universe is incomplete and need something new beyond the most famous theories: Quantum mechanics and General relativity. Reconsiling those two principles is very hard so no one succeeded so far. Why? many people say that is because of lack of knowledge on the most fundamental notions: space and time in addition of energy. The purpose of this writing is to give a new framework which can solve the problem of reconsiling two principles. To achieve it, I had to revisit not only great acient philosophical wisdoms but also number thoery which will be discussed too later. I will show my framework help readers to gain The true nature of gravity and will be used the core of quantum gravity what every physicists are seeking desperately. Before closing objective, the one of most important and ambitious conclusions in my new framework is that there is a unit length of space($ds$) and time($dt$) uniquly assigned to every independent "observer", i.e. energy, and the ratio of the unit lenght of space over time, $ds/dt$, of any independent energy particle which is the most fundamental building block of universe is always equal to the speed of light. It may sound crazy but I am sure everyone will become to agree on that space and time are seperate things but related with just one simple equation $ds/dt=c$, where c is constant, and every object including photon, electron, sun, star, gallaxy and so on without exception. It also should be noted that this statement is actually merging two postulates of special relativity: principle of relativity and constant light velocity. There are lots of thing to be discussed here. After reading this, I hope we could stand on same page for the long journey to the theory of everything with high certainty.
+Our current understanding of universe is incomplete and need something new beyond the most famous theories: Quantum mechanics and General relativity. Reconciling those two principles is very hard so no one succeeded so far. Why? many people say that is because of lack of knowledge on the most fundamental notions: space and time in addition of energy. The purpose of this writing is to give a new framework which can solve the problem of reconciling two principles. To achieve it, I had to revisit not only great ancient philosophical wisdoms but also number theory which will be discussed too later. I will show my framework help readers to gain The true nature of gravity and will be used the core of quantum gravity what every physicists are seeking desperately. Before closing objective, the one of most important and ambitious conclusions in my new framework is that there is a unit length of space($ds$) and time($dt$) uniquely assigned to every independent "observer", i.e. energy, and the ratio of the unit length of space over time, $ds/dt$, of any independent energy particle which is the most fundamental building block of universe is always equal to the speed of light. It may sound crazy but I am sure everyone will become to agree on that space and time are separate things but related with just one simple equation $ds/dt=c$, where c is constant, and every object including photon, electron, sun, star, galaxy and so on are ruled by it without exception. In other word, it means that the velocity of every unaccelerated object is all the same to a scholar value *c* which is usually known as speed of light though it may sound crazy and absurd to readers but readers will eventually agree with it. It also should be noted that this statement is actually merging two postulates of special relativity: principle of relativity and constant light velocity. There are lots of thing to be discussed here. After reading this, I hope we could stand on same page for the long journey to the theory of everything with high certainty.
+
+
+
+In many sources, many physicists say that spacetime could be emergent property derived from more fundamental unknown entity. Simply, it means they do not understand time and space correctly and that's why we are still desperately searching for a new theoretical framework which will unify quantum mechanics and General relativity. It seems to be very similar to when Max Planck needed to do something crazy to figure out the black body radiation, as he put it later, "an act of despair ... I was ready to sacrifice any of my previous convictions about physics." From [2], He had to propose a law contrary to his conviction built upon what he learnt by that time, because no other reasoning was possible. I think the very same history need to be repeated to solve the problem of time and space and I know one reasoning which will guide to the unification of Quantum mechanics and General relativity.
+
+
+## First supposition for the model of energy particle.
+
+From Einstein's theory, mass is known to be something distorting the structure of spacetime but the theory does not tell anything about the mechanism of the distortion just like Newton confessed his problem in explaining how his extremely successful law of force acts in empty space between two separate massive objects. Last few years studying gravity with great materials floating around internet, I concluded that it may be possible to understand better on the problem of time by adopting few suppositions such as the model of energy particle and the existence of unit length for time and space as Max Planck did with his postulate, the energy discreteness.
+
+## Basic model for a particle of unit energy
+
+I am not sure what is common consensus on the definition of nothing and something exist but I will provide my definition to make clear for the next discussion. In my view, the notion for nothing and existence can be defined only with the coordinate of space and time. At a specific location and time, if any form of energy can be detected, I call it existence. But no energy at the location and time, it means nothing. The important thing to note here is that every point in space and time can be associated with energy although energy is not defined precisely yet. If I create a mathematical expression, tuple to define nothing and something, then it could be expressed as following.
+
+$$[x,y,z,t,e]$$
+
+$$Nothing := [x,y,z,t,0]$$
+$$Something := [x,y,z,t,e]$$ , where e is non-zero
+
 
 
 
@@ -117,5 +142,8 @@ Table: this is a caption
 
 ![Hamiltonian equation for a particle](https://latex.codecogs.com/gif.latex?%5CLARGE%20E%3DK.E&plus;P.E)
 
+Physics and the Human Body: Stories of Who Discovered What. By Hiram Baddeley
 
 -------------------------
+
+# References
