@@ -33,12 +33,28 @@ From Einstein's theory, mass is known to be something distorting the structure o
 
 ## Basic model for a particle of unit energy
 
-I am not sure what is common consensus on the definition of nothing and something exist but I will provide my definition to make clear for the next discussion. In my view, the notion for nothing and existence can be defined only with the coordinate of space and time. At a specific location and time, if any form of energy can be detected, I call it existence. But no energy at the location and time, it means nothing. The important thing to note here is that every point in space and time can be associated with energy although energy is not defined precisely yet. If I create a mathematical expression, tuple to define nothing and something, then it could be expressed as following.
+I am not sure what is common consensus on the definition of nothing and something exist but I will provide my definition to make clear for the next discussion. In my view, the notion for nothing and existence can be defined only with the coordinate of space and time. At a specific location and time, if any form of energy can be detected, I call it existence. But no energy at the location and time, it means nothing. The important thing to note here is that every point in space and time can be associated with energy although energy is not defined precisely yet. If I create a mathematical expression, tuple to define nothing and something, then it can be expressed as following.
 
 $$[x,y,z,t,e]$$
 
 $$Nothing := [x,y,z,t,0]$$
-$$Something := [x,y,z,t,e]$$ , where e is non-zero
+
+$$Something := [x,y,z,t,e]$$ , where e is non-zero scalar value.
+
+Definition 1. Nothing and something.
+
+The definition 1 is very ambiguous because it is defined without the definition of space(x,y,z) and time(t). So let me provide suppositions to space and time.
+
+## Two aspects of time and space
+
+By Einstein's SR and GR, people have strong belief that there is no absolute motion either moving or standing still in space and time. What I will do is to make this incomplete view better. It is right that observer can describe the motion relatively as Einstein first showed but that is not the whole story and Einstein only figured out only one aspect of space and time. It will turn out that another aspect of space and time have not been known so far. From my view, space and time must have absolute nature which does not change by means or not dependent to observer's frame. Ontology can support this. From ontology, entity can have both absolute and relativistic natures. Absolute nature does not change over time by any means. On the other hand relativitic nature is ever changing and illusory to observer. Space and time are both absolute and relativistic natures. The key thing is to find out the relation between absolute and relativic property.
+
+Space is like a stage where energy can be located so this single infinite stage is a global resource shared by many energy. Here I uses the term *energy* as individual. It cannot be owned by single energy. Instead each energy individual feels space and time differently and measure only relativistic nature of space and time. The absolute nature of space and time cannot be measured nor observed but can be validated only in logic in thought experiments. Newton's absolute time which flows at a fixed rate to every observer was denied by Einstein but people will learn it cannot be denied and key point in understanding my story. The key idea is that absolute time acts like fixed parameter and measureable time (also space) by observer is the output of a certain function having this fixed parameter as input. I will show gradually why this is doable as discussion goes on so bear with me. The key idea can be express as follows:
+
+$$T_r=\Delta tT_a$$, where $T_r$ is a measurable scalar value, $\Delta t$ length of time evolution or the minimum length of any two different time elements, $T_a$ absolute time which changes at a fixed interval regardless of observer's frame.
+$$S_r=\Delta sS_a$$, where $S_r$ is a measurable scalar value, $\Delta s$ the minimum length of any two different space positions where individual move to, $S_a$ absolute space position always fixed regardless of observer's frame.
+
+
 
 
 
