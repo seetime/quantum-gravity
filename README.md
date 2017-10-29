@@ -4,8 +4,8 @@ date: "May 2017"
 author: "Oh Youngjong"
 ---
 
-Notice: This page can be best viewed on *Chrome browser* + plugin *GitHub with MathJax*.
-
+Notice 1: This page can be best viewed on *Chrome browser* + plugin *GitHub with MathJax*.
+Notice 2: If you have any opinion or question on my writing, I am glad to answer via my email.
 
 
 # quantum-gravity
@@ -55,11 +55,15 @@ By Einstein's SR and GR, people have strong belief that there is no absolute mot
 
 Space is like a stage where energy can be located so this single infinite stage is a global resource shared by many energy. Here I uses the term *energy* as individual. It cannot be owned by single energy. Instead each energy individual feels space and time differently and measure only relativistic nature of space and time. The absolute nature of space and time cannot be measured nor observed but can be validated only in logic in thought experiments. Newton's absolute time which flows at a fixed rate to every observer was denied by Einstein but people will learn it cannot be denied and key point in understanding my story. The key idea is that absolute time acts like fixed parameter and measureable time (also space) by observer is the output of a certain function having this fixed parameter as input. I will show gradually why this is doable as discussion goes on so bear with me. The key idea can be express as follows:
 
-$$T_r=\Delta tT_a$$, where $T_r$ is a measurable scalar value, $\Delta t$ length of time evolution or the minimum length of any two different time elements, $T_a$ absolute time which changes at a fixed interval regardless of observer's frame.
-$$S_r=\Delta sS_a$$, where $S_r$ is a measurable scalar value, $\Delta s$ the minimum length of any two different space positions where individual move to, $S_a$ absolute space position always fixed regardless of observer's frame.
+$$T_r=k_t\Delta tT_a$$, where $k_t$ is a coefficient for time which observe is free to choose, $T_r$ is a measurable scalar value, $\Delta t$ scalar length of time evolution or the minimum length of any two different time elements, $T_a$ absolute time which changes at a fixed interval regardless of observer's frame.
+$$S_r=k_s\Delta sS_a$$, where where $k_s$ is a coefficient for time which observe is free to choose, $S_r$ is a measurable scalar value, $\Delta s$ the minimum scalar length of any two different space positions where individual move to, $S_a$ absolute space position always fixed regardless of observer's frame.
 
+In the above equation, $T_a$ meaning the absolute nature of time that is fixed is not measureable by any observer. Instead, what observer can experience and measure of time is the relativistic nature $T_r$ which Einstein fifured out in his two relativity theories. The absolute time $T_a$ plays very similar role to single global clock source shared by many parts , i.e. CPUs, various peripherals requiring clock for normal operation in computer system. Some CPUs may require fastest clock rate for best performance and for other CPUs slower clock rate may be enough for their Input/Output centric operations so the latter usually use slower clock rate with bigger $\Delta t$ converted from the single global clock source to save power consumption. Here each CPU corresponds to single energy individual having its own time evolution length $\Delta t$.
 
+The big difference between the relation of energy/time and cpu/clock is the possible range of $\Delta t$ which each energy/CPU can have. For energy, $\Delta t$ is a constant determined uniquely by energy configuration which will be explained in [Hamiltonian graph of any particle energy](./energy_mass_graph.md) within the following range,
+$$0\le\Delta t\le \infty $$
 
+For example, every massless particle, i.e. photon, is given $\Delta t=0$. The pure mass is given $\Delta t=\infty $. The rest massive particle which is composed of photons and masses is given $0\lt\Delta t\lt \infty $. What it means by $\Delta t=0$ for a pure mass is that it takes infinite amount of time to experience any minimal change, i.e. movement in absolute space, or simply it does not move at all in the absolute space. This idea will be clearer to readers as discussion goes further.
 
 
 
