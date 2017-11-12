@@ -45,19 +45,23 @@ If a new theory is simpler and understandable intuitively than existing theories
 
 From Einstein's theory, mass is known to be something distorting the structure of spacetime but the theory does not tell anything about the mechanism of the distortion just like Newton confessed his problem in explaining how his extremely successful law of force acts in empty space between two separate massive objects. Last few years studying gravity with great materials floating around internet, I concluded that it may be possible to understand better on the problem of time by adopting few suppositions such as the model of energy particle and the existence of unit length for time and space as Max Planck did with his postulate, the energy discreteness.
 
+
+
 ## Basic model for a particle of unit energy
 
 I am not sure what is common consensus on the definition of nothing and something exist but I will provide my definition to make clear for the next discussion. In my view, the notion for nothing and existence can be defined only with the coordinate of space and time. At a specific location and time, if any form of energy can be detected, I call it existence. But no energy at the location and time, it means nothing. The important thing to note here is that every point in space and time can be associated with energy although energy is not defined precisely yet. If I create a mathematical expression, tuple to define nothing and something, then it can be expressed as following.
 
 $$[x,y,z,t,e]$$
 
-$$Nothing := [x,y,z,t,0]$$
-
 $$Something := [x,y,z,t,e]$$ , where e is non-zero scalar value.
+
+$$Nothing := [x,y,z,t,0]$$, where no energy exist at the point in space and time.
 
 Definition 1. Nothing and something.
 
-The definition 1 is very ambiguous because it is defined without the definition of space(x,y,z) and time(t). So let me provide suppositions to space and time.
+As specified in the section for requirements for better theory, in order to create the simplest model, I assume here that all three components (space, time and massless energy particle) are enough to build our current universe and will show how to understand the mechanism for emergent massive matter from massless particles. It should be noted that in my view, the number of spatial dimension is 3 and no additional dimension is necessary not like in string theory.
+
+The definition 1 is shown as a counterpart in mathematics to physical intuition or supposition that these three primitives are enough to shape of our current universe. One more assumption to be noted in the definition is that all components can be measurable as a scalar value. To make definition more clear, the nature of each component will be explained in more detail.
 
 ## Two aspects of time and space
 
@@ -77,11 +81,24 @@ For example, every massless particle, i.e. photon, is given $\Delta t=0$. A ener
 
 ## Reinterpretation of Galileo's principle of relative
 
-The first postulate of special relativity is the principle of relativity what Galileo first formulated. It states that there is no physical way to differenciate between a body moving at a constant speed and a body standing still. It is great insight about law of nature but I think there is false statement and it should be modified a little bit. In my view, it should be restated as all body, i.e. something defined above, moves at a constant rate $c$ $$\frac{\Delta s}{\Delta t}=c$$, where is $c$ is a constant scalar value.
-> **Equation 2**
+The first postulate of special relativity is the principle of relativity what Galileo first formulated. It states that there is no physical way to differentiate between a body moving at a constant speed and a body standing still. It is great insight about law of nature but I think there is false statement and it should be modified a little bit. In my view, it should be restated as all body, i.e. something defined above, moves at a constant rate $c$ $$\frac{\Delta s}{\Delta t}=c$$, where is $c$ is a constant scalar value.
+> **Equation 2. Space-Time relation**
 
 In fact, the above equation reflects the absolute relational nature of space and time. It is the most fundamental property of our universe. Every *something* is ruled by this equation without exception. It may sound craziest silly thing ever heard by readers but I will try to explain it step by step from now on.
 
+For those who wonder the meaning of Equation 2, it would be helpful to understand the difference between object velocity and (implicit) space/time relation from Figure 1.
+
+![alt text](./images/velocity_relative_to_photon.png "Logo Title Text 1")
+
+> Figure 1. Objects moving parallel with different constant velocity relative to photon in a single absolute space and time interval
+
+In the above figure, it is assumed that there are all 4 particles moving horizontal direction with a constant velocity in absolute space which does neither stretch nor shrink in geometric sense by any external influence. Initially, they are all positioned x=0 at absolute time $T_a=0$. As time flows, object P which is a massless particle moves at light speed. The figure 1 shows clearly that other three (massive) objects moves at constant velocity relative to photon P, $\frac{8}{10}v_p$ for object A, $\frac{5}{10}v_p$ for object A, and $\frac{1}{10}v_p$ for object A.
+
+Here is one crucial thing to think about philosophically of which importance cannot be exaggerated more. It is about flaw in Einstein's view denying absolute space and time. Since Galileo, every object moving constant speed can be considered as either stationary or moving frame with regard to other inertial reference frame. During many generations, this view has been logically valid without doubt but it has a big problem. The problem is that multiplication cannot convert the inertial reference from of object from stationary to moving logically. Recall that multiplication any number with 0 always produces 0. If you put an inertial reference frame of object as stationary which is zero velocity, there is logically no way to change it as moving by using multiplication only. In mathematical/philosophical sense, this interchangeability does not make sense at all. If one is allowed to use only velocity relative to photon, i.e. fraction to light speed, then he/she will soon recognize that it is impossible to make a non-zero fraction to light speed from zero velocity by using only multiplication.
+
+## A new framework for quantizing space and time
+
+Every scientist wants to see the quantum version of Einstein's General Relativity and it still remains one of the most difficult problem they want to solve today. Max Planck broke the limit of classical theory, i.e. electromagnetics, by assuming discrete level of energy instead of continuous energy level and was able to make the coverage of human knowledge deeper and wider. Many scientists believe that the same revolutionary work must be done to make the continuous space and time quantizable but failed to make a consensus on how to do it properly. In fact, the equation 2 is all about the quantized space and time if $\Delta t$ is non-zero scalar value although the exact framework how to do it is not introduced yet. Before delving into the new quantizing framework, it must be understood first
 
 
 현재 물리학에서 해결하지 못하는 가장 근원적이고 기본이 되며 핵심이 되는 문제 하나를 이해할수 있는 방법을 공유하기 위해서 이 문서는 작성되었다. 그 가장 근본적인 문제란 우리가 살고 있는 우주를 구성하는 가장 근본이 되는 요소들인 에너지, 물질, 시간 그리고 공간의 실체에 대한 인간의 이해가 아직 부족하다는 점이고 이 때문에 이들 요소가 어떻게 상호 연동되고 변화하는지에 대해 인류는 지금까지 제대로된 설명을 하고 있지 못한 것이 현실이며 물리학이 당면한 가장 큰 문제이다. 현대 물리학을 떠받치는 가장 핵심이 되는 두개의 원리인 양자역학과 상대성이론을 통합해서 하나의 완전한 이론적 토대를 만들어내고자 하는 수많은 뛰어난 과학자들의 거듭된 노력에도 불구하고 통합에 실패를 거듭하고 있는 이유는 바로 이들 기본요소들에 대한 인간의 완벽하지 못한 이해에서 기인한다. 단언컨데 인류가 에너지와 물질의 실체에 대한 이해와 시간과 공간 개념에 대한 정확한 이해가 없다면 물리학에서 간절히 원하는 궁극이론은 탄생될수 없다. 필자는 아주 우연한 기회에 전혀 생각하지 않던 곳에서의 흥미를 가진 것을 기회로 바로 이러한 문제에 대해 과거 수년간 연구한 끝에 아직 완벽하지는 않지만 현재 인간의 막혀있던 이해 단계를 뚫어 줄수 있다고 자신하는 깨달음을 얻게 되어 이를 나누고자 한다. 이 글은 기본적으로 물리학의 문제를 풀기 위한 것이지만 우주의 근원적인 요소들에 대한 이해를 필수적으로 요구하기에 독자들이 보다 더 깊은 이해를 할수있도록 필자는 철학적인 관점과 정수론의 영역까지 도입할 것이다. 이쯤되면 믿거나 말거나 수준의 허황된 글이라 치부하면서 덮게될 독자들을 조금이라도 붙잡아둘수 있도록 흥미거리를 제시하기 위해 필자는 에너지가 복소수(Complex number)로 1:1대응된다는 쉽게 납득되지 않을 한가지 깨달음에 대해 독자들 역시 인정할 수 있게 되기를 희망한다.
