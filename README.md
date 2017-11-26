@@ -110,9 +110,16 @@ To go easy way to understand my new framework for space and time quantization, I
 
 ## The model of unit energy particle
 
+
+### What means by $\Delta t=0$ of a photon?
+
 Before introducing the model, I think it is eccential for readers to have a clear understanding the meaning of $\Delta t=0$ for proper understanding the model which will be shown soon after. As shown already and from special relativity, a massless energy particle, single photon, is known to have zero time. What zero time means that it's unit length of time evolution $\Delta t$ is zero and it does not experience time flow no matter other massive particle with $\Delta t>0$ (Later it will be understood intuitively why all massive object has $\Delta t>0$ in the part explaining the energy model.) experience time flowing or frozen.
 
-To help easy understanding, lets consider a thought experiment with photon. Suppose that massive observer like human or machine watches two events of shooting a photon at one side and detecting it at the other side screen. In observer's perspective, shooting photon happened before detection so observer can know time order of two events. But photon itself with $\Delta t=0$ does not experience time flow. For photon, there is no distinction of past, now and future.
+To help easy understanding, lets consider a thought experiment with photon. Suppose that massive observer like human or machine watches two events of shooting a photon at one side and detecting it at the other side screen. In observer's perspective, shooting photon happened before detection so observer can know time order of two events. But photon itself with $\Delta t=0$ does not experience time flow. For photon, there is no distinction of past, now and future but observer watching it can distinguish the past and now of it because (massive) observer are given not zero $\Delta t$.
+
+Still confused about the meaning of $\Delta t=0$? Then, I hope another story about number will help to understand.
+
+It is a story about number with time. It is my best knowledge that number itself is a perfect example for explaining why etymología or ontology which is one of the great philosophical views in the ancient Greek period is right.
 
 
 현재 물리학에서 해결하지 못하는 가장 근원적이고 기본이 되며 핵심이 되는 문제 하나를 이해할수 있는 방법을 공유하기 위해서 이 문서는 작성되었다. 그 가장 근본적인 문제란 우리가 살고 있는 우주를 구성하는 가장 근본이 되는 요소들인 에너지, 물질, 시간 그리고 공간의 실체에 대한 인간의 이해가 아직 부족하다는 점이고 이 때문에 이들 요소가 어떻게 상호 연동되고 변화하는지에 대해 인류는 지금까지 제대로된 설명을 하고 있지 못한 것이 현실이며 물리학이 당면한 가장 큰 문제이다. 현대 물리학을 떠받치는 가장 핵심이 되는 두개의 원리인 양자역학과 상대성이론을 통합해서 하나의 완전한 이론적 토대를 만들어내고자 하는 수많은 뛰어난 과학자들의 거듭된 노력에도 불구하고 통합에 실패를 거듭하고 있는 이유는 바로 이들 기본요소들에 대한 인간의 완벽하지 못한 이해에서 기인한다. 단언컨데 인류가 에너지와 물질의 실체에 대한 이해와 시간과 공간 개념에 대한 정확한 이해가 없다면 물리학에서 간절히 원하는 궁극이론은 탄생될수 없다. 필자는 아주 우연한 기회에 전혀 생각하지 않던 곳에서의 흥미를 가진 것을 기회로 바로 이러한 문제에 대해 과거 수년간 연구한 끝에 아직 완벽하지는 않지만 현재 인간의 막혀있던 이해 단계를 뚫어 줄수 있다고 자신하는 깨달음을 얻게 되어 이를 나누고자 한다. 이 글은 기본적으로 물리학의 문제를 풀기 위한 것이지만 우주의 근원적인 요소들에 대한 이해를 필수적으로 요구하기에 독자들이 보다 더 깊은 이해를 할수있도록 필자는 철학적인 관점과 정수론의 영역까지 도입할 것이다. 이쯤되면 믿거나 말거나 수준의 허황된 글이라 치부하면서 덮게될 독자들을 조금이라도 붙잡아둘수 있도록 흥미거리를 제시하기 위해 필자는 에너지가 복소수(Complex number)로 1:1대응된다는 쉽게 납득되지 않을 한가지 깨달음에 대해 독자들 역시 인정할 수 있게 되기를 희망한다.
