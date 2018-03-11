@@ -16,7 +16,7 @@ $$E_t=pE_p+qE_m$$ where p, q are natural numbers.
 
 It is my proposal that the cost time that a matter need to pay for traveling distance can be determined by p and q as follows and I think it can be testable arguement. It is much similar to the time dialation equation.
 
-$$dT= T^0\left({\frac 1{\sqrt{1+\left(\frac{q^2}{(p+q)^2}\right)}}}-1\right)$$, where $dT$ is unit time what a moving object need to pay for traveling over unit distance.
+$$dT= T^0\left({\frac 1{\sqrt{1-\left(\frac{q^2}{(p+q)^2}\right)}}}-1\right)$$, where $dT$ is unit time what a moving object need to pay for traveling over unit distance.
 
 
 In my notation, *penergy* can be expressed as
