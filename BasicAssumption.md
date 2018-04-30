@@ -30,3 +30,7 @@ It is infinitely long which means there are infinitely many points where point-l
  are independent with the existence of third component, energy. In other word, space does not change itself container dimensions where energy can be localized in. Energy is assumed to be a point like particle which is confined within a finite region of space and time. It means that energy does not take multiple places in space and time. Energy as a particle is assumed to take only one point along endless space. The probability distribution of a subatomic particle which is believed true in quantum mechanics is a derivable property in my new model which will be explained later.
 
 Similar analogy about the relation between three components would be a play as a universe. In play, there are three basic components: stage as space, time as time and actor/item as energy. Actor/items can be placed on a finite region of stage. Surely actor cannot exist on multiple places. Play has a beginning and end which corresponds to time. Time plays a common role responsible for describing changes in stage and space. Time can be used to order timely the spatial change of actor or energy. So our entire universe is assumed to be completed with the infinitely many possible combinations of these thee components: space, time and energy.
+
+
+## Energy
+
