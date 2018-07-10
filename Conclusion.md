@@ -42,5 +42,5 @@ Using this notation, dark energy and dark matter what many physicists want to kn
 
 It should be noted that q cannot be negative because it means the number of bond of photon particle and dark energy particle. Our eye which is made of normal matter can only see visible light *photon*. When our eye *see* dark energy particle( in other word, dark energy particle hit our eye), we are hard to sense it because it result in a penergy decrement and menergy increment in our energy state. It also means that the time cost we need to pay for traveling over the absolute distance in space get increased.
 
-
+Simply, gravity is the change of absolute unit length in time and space which a movable object experience.
 This is the core idea to understand gravity.
