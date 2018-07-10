@@ -14,7 +14,7 @@ The third element constituting of our universe, **Energy particle**, is an objec
 
 The same thing happens to Energy object. The cost need to be paid for an energy object **E** to travel can be varied from zero to infinity. Zero cost means the enegy **E** does not experience time flow when traveling along two seprate points. Infinite cost means **E** require infinite time for traveling or it never moves and staying at **a** forever. If **E** need zero cost for traveling, we usually call it light. If **E** need infinite cost for traveling, it has a name familar to us, (pure) mass. If the cost is a scalar value between zero and infinity, then the object will experience time flow like us human, earth, sun, stars and all movable matters.
 
-As can be seen in Einstein's famous equation $E=mc^2$, Energy and mass can be interchaneable. But it will remove ambiguity about the term energy by dividing into two types. From now, I will call the energy of photon is *penergy* and the energy of mass is *menergy*. By using this notion, normal matters including electron, lepton, atom, gold, human and so on can be thought as the linear sum of *penergy* and *menergy*. So total energy $E_t$ can be expressed as follows
+As can be seen in Einstein's famous equation $E=mc^2$, Energy and mass can be interchaneable. But it will remove ambiguity about the term energy by dividing into two types. From now, I will call the energy of photon is *wenergy(Wave Energy)* and the energy of mass is *menergy(Massive Energy)*. By using this notion, normal matters including electron, lepton, atom, gold, human and so on can be thought as the linear sum of *wenergy* and *menergy*. So total energy $E_t$ can be expressed as follows
 
 $$E_t=pE_p+qE_m$$ where p, q are natural numbers.
 
@@ -23,11 +23,11 @@ It is my proposal that the cost time that a matter need to pay for traveling dis
 $$dT= T^0\left({\frac 1{\sqrt{1-\left(\frac{q^2}{(|p|+|q|)^2}\right)}}}-1\right)$$, where $dT$ is unit time what a moving object need to pay for traveling over unit distance.
 
 
-In my notation, *penergy* can be expressed as
+In my notation, *wenergy* can be expressed as
 $$E_p=e^{Ni}$$ where N is integer.
 
 *menergy* can be expressed as
-$$E_p=e^{N0}$$ where N is integer and 0 is a symbol indicating the sum of the positive penergy and negative penergy telling $0=i+(-i)$. From this notation, readers can easily understand why $c$ is squared in Einstein's equation $E=mc^2$ because the numberic value for mass is always even numbered. To help better understanding the analogy would be that a pure mass object can be thought as not rotating object by merging two objects spinning opposite direction so rotation canceled out.
+$$E_p=e^{N0}$$ where N is integer and 0 is a symbol indicating the sum of the positive wenergy and negative wenergy telling $0=i+(-i)$. From this notation, readers can easily understand why $c$ is squared in Einstein's equation $E=mc^2$ because the numberic value for mass is always even numbered. To help better understanding the analogy would be that a pure mass object can be thought as not rotating object by merging two objects spinning opposite direction so rotation canceled out.
 
 It would be worthy to note that, in this notion, the linear sum is expressed as dot product as follows.
 
@@ -40,7 +40,7 @@ Using this notation, dark energy and dark matter what many physicists want to kn
 3. If p is negative integer *-a* and q is zero, the this object O2{-a,0} can be thought as **dark energy**.
 4. If p is negative integer *-a* and q is positive integer *b*, then the this object O2{-a,b} can be thought as **dark matter**.
 
-It should be noted that q cannot be negative because it means the number of bond of photon particle and dark energy particle. Our eye which is made of normal matter can only see visible light *photon*. When our eye *see* dark energy particle( in other word, dark energy particle hit our eye), we are hard to sense it because it result in a penergy decrement and menergy increment in our energy state. It also means that the time cost we need to pay for traveling over the absolute distance in space get increased.
+It should be noted that q cannot be negative because it means the number of bond of photon particle and dark energy particle. Our eye which is made of normal matter can only see visible light *photon*. When our eye *see* dark energy particle( in other word, dark energy particle hit our eye), we are hard to sense it because it result in a wenergy decrement and menergy increment in our energy state. It also means that the time cost we need to pay for traveling over the absolute distance in space get increased.
 
-Simply, gravity is the change of absolute unit length in time and space which a movable object experience.
-This is the core idea to understand gravity.
+
+Simple to say, to understand there is the absolute length of unit in space and time which are assigned to every energy particle as a scalar value and the absolute length of unit can be variable depending on the energy configuration for the energy particle is the key to understand gravity.
