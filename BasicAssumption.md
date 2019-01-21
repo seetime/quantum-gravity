@@ -21,7 +21,16 @@ The last sentence in bold is actually too simple to deliver what I have in mind 
 
 ## Space
 
-Space is the spatial dimension which is emptiness or void. It is environmental or background dimension where the only active constituent, an energy particle, can be positioned at a single point in its domain. It has neither beginning nor end. It is just single entity which cannot be divided or separable into subsets. It is crucial in my view that space itself is fixed in our universe and does not change its shape by any external means. This view seems to violate what most physicists who studied Einstein's general relativity believe. But what I am trying to explain here is not trying to disprove Einstein's holy theory. It's quite the opposite.
+Space is simply emptiness or void which can be thought as a boundless room for the only localizable and movable component out of three component to be placed. So it is a kind of environmental or background dimension because it has neither beginning nor end and it is just single entity which cannot be divided or separable into subsets. It is crucial in my view that space itself is fixed in our universe and does not change its shape by any other external entity.
+
+This new idea seems to violate the most common belief established by Einstein's theory of General Relativity that space-time is curved by existance of mass. Although GR enables us to understand almost every motion of object in macroscopic scale universe such as car, earth and gallaxy, it has still problem to describe motions of elemantary particles in microscopic world up to planck scale such as electron, photon and etc. So I argue that revival for absolute time and space but additional some assumptions which will be introduced in this series of articles will show a way to solve the problem built in GR.
+
+In our universe it is believed that space has three dimensions which is three different reference lines named as x, y and z in cartesian coordinate system. They all shares same characteristics except their directions perpendicular to eatch other. So helping user to understand my new assumptions and for simplicity, I will talk about single reference line only for now.
+
+
+The assumptions include that modificationsovercome the hurdle But what I am trying to explain here is not trying to disprove Einstein's holy theory. It's quite the opposite.
+
+
 
 ~~~
 <del>If we agree on Pythagorean philosophy saying everything is number, then we can think of an exact 1:1 mapping between 1 spatial dimension, i.e x axis in 3 spacial dimension and real number. With such view, we can label every points of the 1 spatial dimension with numbers without missing just single one.
