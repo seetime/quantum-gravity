@@ -1,11 +1,14 @@
 ---
-title: "Introduction of a new theoretical framework which will unify Quantum mechanics and General relativity"
+title: "Introduction of a new theoretical attempt to unify Quantum mechanics and General relativity"
 date: "May 2017"
 author: "Oh Youngjong"
 ---
 
 Notice 1: This page can be best viewed on *Chrome browser* + plugin *GitHub with MathJax*.
 Notice 2: If you have any opinion or question on my writing, I am glad to answer via my email.
+
+
+### New!! See a new altenative model for Special relativity [here](.\images\wavemass_energymap.png).
 
 
 # quantum-gravity
