@@ -60,6 +60,12 @@ $$\Delta s/\Delta t = c$$
 , where $c$ is constant and $\Delta s$, $\Delta t$ are the unit length of *Space*, *Time* what is required by the energy particle stepping forward in the dimension.
 
 
+This point like particle as a fundamental building block is assoicated with a basic unit of energy value. It has two different capabilities which can move in the *Space* and *time* domain. The first motion is oscillating in the *Space* and the second is stepping forward without change of direction in *Space* and *Time* in an all-time-fixed discrete step size unless it interact with any other external energy particle. Although the exact mathematical expression for the trajectory that the first motion shows is unknown yet, after deep thinking what the structure of high energy is and other things, I concluded the best candidate for the model of a basic energy particle must be non-linear, non-periodic, deterministic system showing sensitive dependence on the initial conditions which was introduced in the Chaos theory. The detailed explanation why I think so will be provided in the another topic.
+
+The most key idea in my set of assumptions is that every particle is assigned a definite unit length applied to any dimension where it lives in, here *Space* and *Time* if we set $c$ in the Space-Time law to 1. This implicit unit length is determined by total energy and mass of a particle in my theory as in [here](./energy_mass_graph.md).  
+
+
+
 fundamental building block which is ruled by the law of space and time. It is assumed to be a point-like particle which oscillate within a bounded area in 3 dimensional space similar to the strange attractor in Chaos theory. Although the exact mathematical expression for the trajectory of a massless energy particle as known as a single photon in space and time is unknown yet, in order to understand the phenomena in the double slit experiment, I concluded that the best candidate for the mathematical expression is something like the Lorenz equation which have some unique characteristics such as sensitivity to the initial condition and no cross point in its trajectory which means non-periodic oscillation.
 
 There are two more important characteristics kept it mind. The first is that the unit length of time for a massless particle is zero. It means the oscillation in space does not take time or the required time for completing the non-periodic oscillation in a bounded area is not infinite but zero.
