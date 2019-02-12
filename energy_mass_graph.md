@@ -33,13 +33,16 @@ It is important that there is a room for negative wave energy in the complex dom
 
 ## What is energy
 
-[Under ]
+[Under construction ]
 
-Dimension ratio for an energy particle is determined by portions of light energy and mass. If a particle has a total energy T, T is linear sum of light energy P and mass energy Q.
+Dimension ratio (similar to Lorentz factor in [Lorentz transformation](https://en.wikipedia.org/wiki/Lorentz_transformation)) for an energy particle is determined by portions of light energy and mass. If a particle has a total energy T, T is linear sum of light energy P and mass energy Q.
 
 $$T=P+Q$$
 
+As Max Planck postulated 100 years ago, energy can stand only in quantized form with no exception no matter what it is massive or massless. So if we set the absolute energy value for a unit indivisible energy particle as E, then the above equation can be rewritten as follows:
 
+$$tE=pE+qE=(p+q)E$$
+where p,q are natural number including 0.
 
 ## Energy transition rule
 Light and mass are different forms of energy. As can be seen in nuclear weapon, it means that they can transform to each other under certain rule which I will explain. To explain the rule in more strict way, I will reuse the existing mathematics with some tweaks. Firstly, as Max Planks postulated, energy can exist only in quantized form which means its energy scalar value is integer assuming natural unit 1 for Plank constant *h*. From now on, my new idea and rules will be presented so readers are advised to be patient for them although they sound strange or crazy for time being.
