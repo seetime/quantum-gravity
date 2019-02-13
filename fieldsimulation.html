@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>New model for Special relativity</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- import the webpage's javascript file -->
+        
+        <script src="./scripts/fieldsimulation.js" defer></script>
+        <script type="text/javascript" src="./scripts/utils.js"></script>
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+        <script type="text/javascript" async
+            src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+        </script>
+    </head>
+<body>
+
+    <h1>How Twin paradox can be understood</h1>
+
+    <p>
+        At initial tick=0, two particles are seperated from each other by 300 and move positive x direction while keeping their distance unchanged. In this period, they are in stationary motion.
+        Then at tick=100, lower particle 1 then enter into energy field acting like a force field so adding more boosted energy to particle 1 so accelerated.
+    </p>
+    <p>
+        For a particle, if total energy is \(tE = (p + q)E\), the ratio (similar to Lorentz factor) can be calculated as follows:
+        $$ratio = { 1 \over { \sqrt{1 - {p^2 \over (p+q)^2}}}} - 1$$
+    </p>
+
+    <div class="simulation">        
+        <canvas id="canvas" width="1280" height="400"></canvas>
+        <p>Value: <span id="ticks"></span></p>
+    </div>
+    <div id="chartContainer" style="height: 370px; width:100%;"></div>
+</body>
+</html>
